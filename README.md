@@ -1,1 +1,1 @@
-# ObjectDetection_C.elegans
+# C.elegans object detection
